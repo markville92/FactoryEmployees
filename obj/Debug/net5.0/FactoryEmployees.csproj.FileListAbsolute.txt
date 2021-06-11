@@ -1,0 +1,5 @@
+C:\Users\cloud\Documents\Projects\FactoryEmployees\obj\Debug\net5.0\FactoryEmployees.csproj.AssemblyReference.cache
+C:\Users\cloud\Documents\Projects\FactoryEmployees\obj\Debug\net5.0\FactoryEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloud\Documents\Projects\FactoryEmployees\obj\Debug\net5.0\FactoryEmployees.AssemblyInfoInputs.cache
+C:\Users\cloud\Documents\Projects\FactoryEmployees\obj\Debug\net5.0\FactoryEmployees.AssemblyInfo.cs
+C:\Users\cloud\Documents\Projects\FactoryEmployees\obj\Debug\net5.0\FactoryEmployees.csproj.CoreCompileInputs.cache
